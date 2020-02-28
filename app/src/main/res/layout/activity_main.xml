@@ -11,7 +11,7 @@
     <!--width = largura
         height = altura
         weight = peso -->
-
+    <!--comentario-->
 
     <TextView
         android:id="@+id/tituloTextView"
