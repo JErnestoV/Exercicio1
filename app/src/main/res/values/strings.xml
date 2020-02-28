@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Paises</string>
+    <string name="pais">Brasil</string>
+    <string name="nome_prato">Feijão de Corda</string>
+    <string name="descricao_da_bandeira">mostra a bandeira do Brasil</string>
+    <string name="descricao_do_prato">imagem descrevendo o prato tipico</string>
+</resources>
